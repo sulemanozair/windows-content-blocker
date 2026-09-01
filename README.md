@@ -103,4 +103,4 @@ iscc installer.iss
 
 **Version:** 1.0  
 **Last Updated:** September 2026  
-**Author:** Your Name
+**Author:** Suleman Ozair
